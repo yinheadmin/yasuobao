@@ -1,0 +1,117 @@
+http://lalalac.cn/Admin/index/index.html    
+
+www.bfball.net   论坛引流
+
+http://lalalac.cn/Agent/index/index.html
+
+http://lalalac.cn/app/
+http://lalalac.cn:8888/77286894/
+lalalac.com:8888/77286894
+
+  http://www.ais19.com/play/33946.html?from=1
+btadmin
+
+  admin     lPYtw3xMDjUqlnbm
+
+
+77286894
+   86012
+
+账号18773810689密码168168
+
+分发系统
+https://app.yhjdapp.com
+
+
+
+https://app.yhjdapp.com/admin.php               	2513621682@qq.com
+admin@system.com 77286894
+   
+
+娱乐的苹果下载地址  
+https://app.yhjdapp.com/app.php/7
+
+
+APP 更新 放到www/wwwroot/xxx.com/public/app/app.ipa
+
+lalalac.cn/admin 账号密码 admin 8601258 你先看看77286894
+
+lalalac.cn/agent 账号   18100000000 77286894   
+   
+采集地址 
+http://222.186.20.75/ququ.php?id=json.txt;http://222.186.20.75/ququ.php?id=
+
+想玩 ----改成  来玩的时候    https://go.1392266.com/admin     
+
+ 域名可测  amtycdc.cc    amvnsdc.cc  amwnsdc.cc  amxhyl.cc amjsyl.cc
+   
+打造全球最顶尖的扑鱼游戏平台
+
+千款老虎机  等你来玩  
+
+全网第一     美女真人百家乐
+
+全球最佳     电子游艺平台
+
+免费主机  https://www.zzidc.com/vhost/detail/1645-0-15816.html
+
+LYCOX1HY 
+
+美恰
+
+2920027796@qq.com  2872338906@qq.com
+
+伪静态 
+location / {
+	if (!-e $request_filename){
+		rewrite  ^(.*)$  /index.php?s=$1  last;   break;
+	}
+}
+
+素材网站
+https://www.element3ds.com/thread-193105-1-1.html
+
+https://www.toutiao.com/a6566849170722783751/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1551707544&app=news_article&utm_source=weixin&iid=64283247191&utm_medium=toutiao_android&group_id=6566849170722783751
+
+
+https://m.toutiaocdn.cn/group/6465204272257565197/?iid=64283247191&app=news_article&timestamp=1551707650&group_id=6465204272257565197&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share
+凤凰
+www.fh158.net
+
+103.215.49.137-139 
+用户:root
+密码:abc.com!@
+
+2936374081   我要178
+2567660336
+2513621682
+
+
+澳客娱乐
+
+aokeyuLe.cc/admin
+后台账号admin 123456
+
+
+
+http://43.240.146.15:8888/77286894
+aokeyuLe.cc:8888/77286894
+btadmin  澳客娱乐12345
+
+
+云顶
+
+43.240.146.57-59     2255
+用户:root
+密码:abc.com!@
+
+
+
+c.qaqcom.top/admin  账号admin 密码123456
+Bt-Panel: http://43.240.146.57:8888  username: btadmin   password: 77286894
+
+
+上车后给钱，说bayad po（拔牙~博）或（巴彦都）
+如果你给的钱不是正好的，司机会问你是不是一个人，要是一个人就说salang（萨浪）
+下车bara po（八拉博）美女最多的两条线，ayala - ibabaw和ayala - washingdon
+

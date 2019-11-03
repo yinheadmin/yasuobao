@@ -1,0 +1,273 @@
+苹果ID  1113837888@qq.com 18687280998   Women16
+
+服务器   https://www.vultr.com/
+
+https://www.bt.cn/download/linux.html      安装宝塔
+722yh.com
+主机 ag 要cname到 kbc.ag.ittos360.com                                 185.106.36.103
+主机 @ 要cname到 kbc.cdn-discuz.com
+主机 www 要cname到 kbc.cdn-discuz.com
+主机 m 要cname到 kbc.cdn-discuz.com
+
+729yh.com
+主机 @ 要cname到 kbc.cdn-discuz.com
+主机 www 要cname到 kbc.cdn-discuz.com
+主机 m 要cname到 kbc.cdn-discuz.com
+
+
+https://github.com/join  2936374081@qq.com      yinheadmin   yinhe@168
+2567660336     wohui168
+
+www.22.cn     13135130047   yinhe888
+
+https://www.xz.com     2936374081@qq.com   yinhe8
+
+域名解析生效查询
+https://simpledns.com/lookup-dg
+
+网站检测分类是否bc
+http://qq.nkn3vj.com/  shenhe  shenhe!@#
+
+旧的是 lb1018r.gpkpay.ishop777.com
+
+最新的是 新金流指向：  kbc.zokac.com  
+     http://pay.jdshouyin.com
+
+代理解析
+ag	.shenqingdaili	CNAME	kbc.ag.ittos360.com
+
+合并页面
+https://t.0tmhw.com
+
+
+22.cn 域名账号  131351130047   yinhe888
+
+美洽账号
+1319595877@qq.com  yinhe888      
+
+聚名账号  juming
+798343488@qq.com  wenkeadmi*  13135138752  改修  2567660336@qq.com
+
+CDN      
+http://pt.ygfcdn.com/      myddoscdn   yinhe888
+
+cdn    
+http://23.225.222.234:890/view/cdn/site    2567660336@qq.com   2567660336    
+测试  http://ce8.com/http/www.zzpcm.com   http://mping.chinaz.com/?host=www.zzpcm.com
+
+CNAME  python.di1cdn.com.     kddos.cc
+
+这是您的源ip 185.109.17.246请注意这是cdn防御用的～ 所以一定要用cdn防御才能指向 且要有流量进来～不然会当做没有使用～进行回收 那域名绑定提交客服即可～ 跟一般绑定域名一样 一旦使用cdn域名有问题～ 我们一般是只确认源ip有无问题 其他部分是属于你们的管理范围～我们无法管控与解决！！ 以上请知悉
+185.109.17.246
+
+https://sg.godaddy.com/zh/domains/domain-transfer   域名转入
+https://WWW.godaddy.com  	买域名  
+wangxinban
+Womenhuifa168
+
+aomenyinhejd@gmail.com   yinhe888
+防封微信短网址
+https://ff.yzcdz.com/   13135130047  yinhe
+
+https://and.shoujiduan.top/apand4.php?c=TEkwMDEtMDEtQVBL
+https://ios.shoujiduan.top/apios4.php?g=TEkwMDEtMDEtSU9T
+
+GPK PGK, [02.07.19 16:17]
+taobao2222.com
+yqlyl.com
+ruishiyh.com
+wsqyh.com
+請設定以下這組
+kbcs.cdn-discuz.com
+主機記錄:
+_8BCD4848FE2498969E7A38253C251F96
+記錄值:
+F22D8C05EDB1181A8E9D8D0C49CEB5A0.7A4280966585AFCA406570ECB4091E36.db1664124c.comodoca.com
+
+
+yinhemei.com
+yhdd.cc
+解析     kbcs.cdn-discuz.com
+請設定以下這組
+
+主機記錄:
+_8BCD4848FE2498969E7A38253C251F96
+記錄值:
+F22D8C05EDB1181A8E9D8D0C49CEB5A0.7A4280966585AFCA406570ECB4091E36.9be1a6238b.comodoca.com
+
+GPK PGK, [02.07.19 16:19]
+站长要新增1条证书域名
+shoujiduan.top
+麻烦技术排程
+
+shoujiduan.top
+請設定以下這組
+
+主機記錄:
+_6E404D4B658C620E0B4E65115C906496
+記錄值:
+92EE9F0F81B5949BD3834D8F89AB809D.612CB6BD5D0F574752D2311C3D3BD8D8.213f98dacc.comodoca.com
+
+hengping.top
+
+主機記錄:
+_8BCD4848FE2498969E7A38253C251F96
+記錄值:
+F22D8C05EDB1181A8E9D8D0C49CEB5A0.7A4280966585AFCA406570ECB4091E36.c59385a2d8.comodoca.com
+
+
+http://ping.chinaz.com     经过我的反复研究验证，godaddy确实不支持不带www域名的别名解析，如果我们要做@解析，也就是不带www，请把你的别名ip找出来，然后做A记录。
+你只需要把别名放入：http://ping.chinaz.com/，把ip ping出来然后做A记录基本都是一样的。
+或者把dns更换到国内的免费dns，比如dnspod。
+购买godaddy老域名请查看：http://www.laomiba.cn/#3
+当然我们其他服务商的域名也可以帮转移到godaddy。
+
+爱名网   https://www.22.cn/    13687337540  yinhe888
+
+站长您好～请将https域名
+jd588888.com
+qqwLy.com
+722yh.com
+xinyh.com
+qqwLy.com
+jd588888。com
+指向到
+kbcs.cdn-discuz.com
+再加2跳S 域名
+yinhegf.com     amyhyule.com       
+
+
+财务跳板网站
+pay.yhjdpay.com         jdshouyin.com
+后台您若要设置金流跳版,需要您提交商城域名给我们技术绑定
+pay.yhjdpay.com        jdshouyin.com
+及跳版域名需要您解析主機pay  cname到
+主要：lb1018r.gpkpay.ishop777.com
+最新的是 新金流指向：  kbc.zokac.com
+
+
+301  跳转  https://301.pianyissl.com/   QQ ： 81628746      2936374081@qq.com   
+解析地址    d-6rsytxny.hzxzb.cn  
+
+
+宝塔   bt.cn   13687337540  mybaotao168
+
+製作說明
+1.请站长先提供一条没有在推广的域名 (IOS、安卓 可以用同一条，也可以用不同条)
+2.如果要制作IOS版，请站长要先去申请开发者企业版账号，一定要企业版的噢
+3.安卓、IOS 须请站长自行提供扫码页面的域名
+苹果 主机 ios cname 到 ios.auo158.com
+安卓 主机 and cname 到 android.yf268.com
+
+澳客统计：https://web.umeng.com/main.php?c=site&a=show
+t7paycs@gmail.com
+asdf123123
+
+开启域名  m.cdzyhw.com
+下载链接  http://and.yhjdapp.com/apand.php?c=TEkwMDEtMDEtQVBL
+
+扫码域名      http://and.yhjdapp.com/apand.php?c=TEkwMDEtMDEtQVBL
+前台开启域名  www.cdzyhw.com  主要           m.cdzyhw.com （必须要解析）  2个缺一不可  aeebb.com
+
+网易云   https://dun.163.com/dashboard      13687337540   yinhe888
+
+www.amyhjd.com  线路选择 
+www.yhjd.com       线路选择 
+www.yhdc.cc      线路选择 
+
+前台域名请解析到
+主机 m 要cname到 kbc.cdn-discuz.com
+
+godaddy.改DNS 和批量解析
+如果你没有第三方DNS账户，先去注册一个。
+正规网站推荐www.dnspod.com，www.dns.la等。其它网站推荐www.51dns.com，www.360nds.com等。
+然后去把域名的DNS修改成DNS商家指定的dns。
+
+
+YINHE
+103.215.51.158-160   
+用户:root
+密码:abc.com!@
+
+
+备用  LANWEIWIE
+103.234.98.93-95  
+用户:root
+密码:abc.com!@
+
+
+
+买QQ的 2501313250
+服务器   值班    QQ 234150955  QQ 113327896.电话13040805088  
+
+Bt-Panel: http://103.215.51.158:8888/5a8e13be
+username: udcqgmm6
+password: 573f3e15
+
+YINHE --落地页
+202.8.120.35-37   
+用户:root
+密码:abc.com!@
+http://202.8.120.35:8888/77286894  btadmin 2936374081
+机器好了
+
+
+银河
+机器人id=878921066:AAG78QYrw34URTRbfBRXpCbfjjVFrqOpsRM
+房间id=-1001291166524
+
+
+請設定以下這組
+
+主機記錄:
+_8BCD4848FE2498969E7A38253C251F96
+記錄值:
+F22D8C05EDB1181A8E9D8D0C49CEB5A0.7A4280966585AFCA406570ECB4091E36.29a12a809a.comodoca.com
+
+
+LANGGE
+103.215.49.137-139 
+用户:root
+密码:abc.com!@
+
+
+AOKE
+43.240.146.15-17    
+root
+abc.com!@
+
+Bt-Panel: http://43.242.128.117:8888/ff7a1024
+username: itatoazz
+password: 33d2acc5
+
+http://43.240.146.15:8888/77286894/
+aokeyuLe.cc/admin
+后台账号BTadmin akyl12345
+
+oscar, [13.04.19 00:50]
+aokeyuLe.cc/agent   代理
+后台账号18100000000   123456
+
+云顶yunding
+43.240.146.57-59 
+用户:root
+密码:abc.com!@
+
+I3  8G  240Gssd  10M  3IP   700
+E3  8G  240Gssd  10M  3IP   
+
+https://my.getssl.cn   cdn--ssl       2936374081@qq.com yinhe88
+会员登录 - GetSSL.CN - SSL Certificates
+GETSSL.CN SSL 证书 会员中心
+
+https://WWW.godaddy.com
+2936374081@qq.com
+amwnsrgodaddy
+Amwsnr178
+
+https://WWW.godaddy.com
+wangxinban
+Womenhuifa168  
+
+VNS
+103.234.97.73  

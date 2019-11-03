@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<?php
+function getRealIp() {
+	$ip = false;
+	if (!empty($_SERVER["HTTP_CLIENT_IP"])) {
+		$ip = $_SERVER["HTTP_CLIENT_IP"];
+	}
+	if (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+		$ips = explode(", ", $_SERVER['HTTP_X_FORWARDED_FOR']);
+		if ($ip) {
+			array_unshift($ips, $ip);
+			$ip = FALSE;}
+		for ($i = 0; $i < count($ips); $i++) {
+			if (!eregi("^(10│172.16│192.168).", $ips[$i])) {
+				$ip = $ips[$i];
+				break;
+			}
+		}
+	}
+	return ($ip ? $ip : $_SERVER['REMOTE_ADDR']);
+}
+?>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+<div style="display:none">
+<?php
+ $ip=substr(getRealIp(),-1);
+ $cnzz1="<script type=\"text/javascript\">var cnzz_protocol = ((\"https:\" == document.location.protocol) ? \"https://\" : \"http://\");document.write(unescape(\"%3Cspan id='cnzz_stat_icon_1277384236'%3E%3C/span%3E%3Cscript src='\" + cnzz_protocol + \"s5.cnzz.com/z_stat.php%3Fid%3D1277384236' type='text/javascript'%3E%3C/script%3E\"));</script>";
+ $cnzz2="<script type=\"text/javascript\">var cnzz_protocol = ((\"https:\" == document.location.protocol) ? \"https://\" : \"http://\");document.write(unescape(\"%3Cspan id='cnzz_stat_icon_1277615594'%3E%3C/span%3E%3Cscript src='\" + cnzz_protocol + \"s5.cnzz.com/z_stat.php%3Fid%3D1277615594' type='text/javascript'%3E%3C/script%3E\"));</script>"; 
+if ($ip=="0" || $ip=="1" || $ip=="2" || $ip=="3" || $ip=="4" ||  $ip=="5")
+{
+  echo $cnzz1;
+}
+    
+if ($ip=="0" ||  $ip=="5"|| $ip=="6" || $ip=="7" || $ip=="8" || $ip=="9")
+{
+  echo $cnzz2;
+}
+  ?>
+</div>
+  <?php
+  $r="https://e-120865.chatnow.meiqia.com/dist/standalone.html?";
+  $r1="https://messenger.providesupport.net/messenger/1dr4dgqlanray11919dxk4hozk.html?";
+  $r2="https://e-134774.chatnow.meiqia.com/dist/standalone.html?";
+  $r3="https://chat56.live800.com/live800/chatClient/chatbox.jsp?companyID=1122200&configID=262933&jid=3237547236&s=1";
+  $l=intval(substr($_SERVER['REMOTE_ADDR'],-1));  
+ if( $l % 2!=1)
+ {
+  if($_SERVER["QUERY_STRING"]=="p") {
+      $refer = $_SERVER['HTTP_REFERER'];
+      $r = $r1.'m=' . $refer;
+      $refer = $_SERVER['HTTP_REFERER'];
+      $r = $r1.'m=' . $refer;
+      //echo $_SERVER["QUERY_STRING"];
+  }else{
+      $refer = $_SERVER['HTTP_REFERER'];
+      $r = $r3.'&m=' . $refer;
+     // echo $_SERVER["QUERY_STRING"];
+   
+  }
+ }else
+ {
+   $refer = $_SERVER['HTTP_REFERER'];
+      $r = $r2.'m=' . $refer;
+   
+ }
+  ?>
+<script>
+  
+    window.resizeTo(600,600);
+    
+ 	location.href = "<?php echo $r; ?>";
+</script>
+  
+</body>
+</html>
